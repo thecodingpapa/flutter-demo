@@ -1,0 +1,1 @@
+String HERO_DEMO_TITLE = 'hero';
